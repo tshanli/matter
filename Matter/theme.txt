@@ -10,7 +10,7 @@
 # Global Property
 title-text: ""
 # desktop-image: "background.png"
-desktop-color: "#263238"
+desktop-color: "#2b2d42"
 terminal-font: "default" # a random name to let the default font for the console
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
@@ -25,9 +25,9 @@ terminal-border: "0"
   top = 29%
   width = 28%
   height = 60%
-  item_font = "Google Sans Regular 32"
-  item_color = "#ffffff"
-  selected_item_color = "#e91e63"
+  item_font = "Josefin Sans Regular 32"
+  item_color = "#edf2f4"
+  selected_item_color = "#ef233c"
   icon_width = 72
   icon_height = 72
   item_height = 72
@@ -43,6 +43,6 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   text = "Booting in %d seconds"
-  color = "#ffffff"
-  font = "Google Sans Regular 32"
+  color = "#edf2f4"
+  font = "Josefin Sans Regular 32"
 }
