@@ -25,7 +25,7 @@ terminal-border: "0"
   top = 29%
   width = 28%
   height = 60%
-  item_font = "Josefin Sans Regular 32"
+  item_font = "Roboto Mono Nerd Font Complete 32"
   item_color = "#edf2f4"
   selected_item_color = "#ef233c"
   icon_width = 72
@@ -44,5 +44,5 @@ terminal-border: "0"
   id = "__timeout__"
   text = "Booting in %d seconds"
   color = "#edf2f4"
-  font = "Josefin Sans Regular 32"
+  font = "Roboto Mono Nerd Font Complete 32"
 }
